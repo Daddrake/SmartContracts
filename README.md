@@ -4,3 +4,4 @@ Different smart contracts I have written on my road to learning blockchain and w
 Contribution by Alchemy and dAppUniversity
 
 HotelRoom.sol: A dApp for booking hotel rooms.
+SecretVault.sol: A smart contract on inheritance.
